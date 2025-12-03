@@ -1,0 +1,45 @@
+{
+  "classes": [
+    "ants",
+    "bees",
+    "beetle",
+    "catterpillar",
+    "earthworms",
+    "earwig",
+    "grasshopper",
+    "moth",
+    "slug",
+    "snail",
+    "wasp",
+    "weevil"
+  ],
+  "num_classes": 12,
+  "class_to_idx": {
+    "ants": 0,
+    "bees": 1,
+    "beetle": 2,
+    "catterpillar": 3,
+    "earthworms": 4,
+    "earwig": 5,
+    "grasshopper": 6,
+    "moth": 7,
+    "slug": 8,
+    "snail": 9,
+    "wasp": 10,
+    "weevil": 11
+  },
+  "idx_to_class": {
+    "0": "ants",
+    "1": "bees",
+    "2": "beetle",
+    "3": "catterpillar",
+    "4": "earthworms",
+    "5": "earwig",
+    "6": "grasshopper",
+    "7": "moth",
+    "8": "slug",
+    "9": "snail",
+    "10": "wasp",
+    "11": "weevil"
+  }
+}
